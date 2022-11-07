@@ -20,3 +20,5 @@ Tested on Windows 10 only
 > If you want to close the programme. Just close the console window.
 > If used windowless build then open task manager. Then search for name of exe file that you run and end the task.
 > <img src="https://user-images.githubusercontent.com/75155192/200343500-9803b85a-d350-4abd-ab63-69b816500ea4.png" alt="End the Task"/>
+
+> Copy Executable file to StartUp folder if you want to run executable on startup
