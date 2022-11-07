@@ -6,6 +6,7 @@ import (
 
 func main() {
 	for true{
+		
 		//Change the string to whatever you want
 		var str string = "Infected With ClipBoard Virus" 
 
