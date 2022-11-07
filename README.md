@@ -1,8 +1,8 @@
 # ClipBoardVirus
 
-### Simple Virus Created with GOLang for fun
+### Simple Virus Created with Golang for fun
 
-This doesn't allow you to copy. When you trying to paste it, it paste the text that you used in script
+This doesn't allow you to copy. When you trying to paste, it pastes the text that you used in script
 
 Tested on Windows 10 only
 
